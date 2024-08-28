@@ -8,7 +8,7 @@ public class HashGenrator {
 
     public static void main(String[] args) {
         if (args.length != 2) {
-            System.out.println("Usage: java -jar DestinationHashGenerator.jar <PRN_Number> <path_to_json_file>");
+           
             return;
         }
 
